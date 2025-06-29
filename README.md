@@ -35,23 +35,22 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/SuhasKamate/Business_Management_Project.git <br>
 
-2. Import the project inside STS/Eclipse : <br>
+1. Import the project inside STS/Eclipse : <br>
      - Open STS/Eclipse > file > import > maven > existing project > browse > finish . <br>
      
-3. Make sure you are in the Business_Management_Project directory. <br>
+2. Make sure you are in the Business_Management_Project directory. <br>
 
 ![packageExplorer](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/3ea1eb7f-8e49-4b76-96e4-798b6b8e8715)
 
 
-4.Configure the database connection is application.properties (check the Database section for more information). <br>
+3.Configure the database connection is application.properties (check the Database section for more information). <br>
 
-5.Run the project (by running main method is BusinessProjectApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
+4.Run the project (by running main method is BusinessProjectApplication.java) OR right clink on the project > Run As > Spring Boot App. <br>
 
-6.Open http://localhost:2330/home in any browser. <br>
+5.Open http://localhost:2330/home in any browser. <br>
 
-7.Now your tables will be created in the databse. <br>
+6.Now your tables will be created in the databse. <br>
    - You have to add one admin data manually to login as admin, So add one admin data. <br>
     
 
